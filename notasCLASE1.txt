@@ -1,0 +1,23 @@
+Entrega Continua
+Ejecutas pruebas para detectar problemas.
+
+TEST
+
+STAGING -
+Ambiente de pre-producción.
+
+PRODUCTION
+(cuando sale a producción se llama entrega continua)
+
+
+Tecnica
+borde
+particiones de equivolencia
+
+Tecnica
+while - for
+
+Adivinanza de errores
+
+QUE ES EL TESTING
+*Niveles de testing
