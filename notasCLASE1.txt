@@ -21,3 +21,69 @@ Adivinanza de errores
 
 QUE ES EL TESTING
 *Niveles de testing
+
+
+
+SOFTWARE HEREDADO
+
+
+PRUEBAS DE MANTENIMIENTO:
+se hace un análisis de riesgo
+podemos ver si realizamos un test para todo los niveles.
+ANÁLISIS DE IMPACTO
+
+
+Tipo de Estrategia:
+confirmación de defecto
+o 
+regresion del defecto
+
+RE TESTING
+Volver a correr, para ver si se ha corregido
+
+PRUEBAS DE REGRESIÓN:
+pruebas dps de un cambio
+Se puede hacer por todos los niveles
+(candidatos a automatizar)
+
+*Se hace durante el desarrollo
+*Cuando se actualiza el soft
+
+
+NO CAMBIA SEGUN METODOLOGIA AGIL O CASACADA
+NO CAMBIA EL CONCEPTO NI TAREAS
+
+
+COMIENTO TESTING
+-Testing de servicios
+-Integración, cuando se vaya integrando
+-Sistemas
+-Aceptación
+
+AUTOMATIZAR
+Precondicion -> Analisis de salida -> Reporte
+
+Cuando Automatizar
+Cuando NO Automatizar
+
+Que necesito para automatizar
+Test charter que es? AVERIGUAR
+
+----
+
+IDE ECLIPSE
+Descargar Java
+Maven
+Browser
+se ve como justificar las configuraciones
+JDK que se instaló
+HASTA CLASE3
+
+clase2
+Clave para hacer cualquier tipo de proyecto
+IDENTIFICACION DE ELEMENTOS
+
+CLASE 6JULIO VIRTUAL
+
+
+
