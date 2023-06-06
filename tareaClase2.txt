@@ -1,0 +1,31 @@
+
+Elementos identificados:
+
+
+Direcciones Absolutas
+Cuadro de Busqueda
+/html[1]/body[1]/div[3]/form[1]/fieldset[1]/div[1]/input[1]
+
+Link Frances
+/html[1]/body[1]/div[2]/div[6]/a[1]
+
+Ruta Relativa
+//div[@class='central-featured']/div[6]
+//div[@class='central-featured-lang lang6']
+
+
+12 matching
+//div[@class='other-project']
+
+Seleccionar por id
+Botón Leer wikipedia en tu idioma #js-lang-list-button
+
+https://es.wikipedia.org/wiki/Selenium
+
+Titulo Selenium
+#firstHeading
+
+Ruta absoluta
+(//h2)[3]
+a[title='C sharp']
+
