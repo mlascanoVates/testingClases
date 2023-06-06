@@ -1,0 +1,69 @@
+como se ve y como se construye para que sea sólido
+MARCO DE REFERENCIA
+-facil de desarrollar
+-y contruir
+-buenas practicas
+-reducir costos}
+
+FRAMEWORK , ARQUITECTURAS, MARCO DE REFERENCIA
+
+HERRAMIENTAS:
+*RECORD AND PLAY
+Aparece algo diferente, se debe comenzar a grabar todo.
+Requiere poco conocimiento.
+Sirve:
+Reproducir defectos,
+Identificar componentes de pag web
+NO para armar proyecto que apunte a integración continua.
+
+CONDUCIDA POR MODULOS
+Cada modulo puede ser una pagina, dependiendo la arquitectura se modula.
+
+DATA DRIVEN, CONDUCIDA POR DATOS
+Datos no quiero sean fijos
+Arquitectura donde soporte los datos
+Framework: tenemos un archivo externo
+herramientas: Tc, ...
+
+KEYWORD-DRIVEN, palabras claves que permite comportamiento.
+-Planeacion
+-Implementación
+Problema: genera cuello de botellas
+mucho trabajo
+se usa mucho en proyectos con mantenimeto
+
+PROYECTOS HIBRIDOS
+Combinacion de todas las otras
+
+Para identificar un elemento
+ID
+RUTA ABSOLUTA : HTML / DIV /a
+RUTA RELATIVA: busca por la mitad del cuerpo, con clases, se fue al elemento más seguro
+va del elemento más seguro, para abajo
+
+elemento más seguro:
+ID
+MAIN
+CLASE NAME
+
+
+IDENTIFICAR 3 ELEMENTOS USANDO EL INSPECTOR
+
+elemento id
+
+ejemplo
+caja de busqueda - 
+link español
+lin ingles
+titulo
+
+Puede ser un link, no solamente la web inicial
+
+SI no se consigue por id
+LA ruta más segura
+Al menos 6 elementos
+
+SELECTOR PATH
+
+
+https://www.wikipedia.org/
