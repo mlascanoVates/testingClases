@@ -1,0 +1,30 @@
+Crear carpeta Drivers
+Reporter.log permite lo que le mandamos al cliente
+Systeout-> ve lo que vemos en consola
+
+Navegar a + url
+
+Se visualiza o despliega la caja de texto
+
+"No se pudo visualizar la caja de busqueda"
+
+String dato="Selenium"
+Ingresar la palabra Selenium
+Es un dato, asi que está por fuera
+
+//Teclas del teclado
+KEYS.
+
+String url=""
+
+
+Presionar enter
+
+En la pagina de resultado, busco el titulo
+
+Reporter.log("El título historia es visible")
+WebElement historia= driver.findElement(By.xpath())
+
+
+El link Hisotira es visible
+
