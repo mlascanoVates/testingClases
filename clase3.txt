@@ -1,0 +1,9 @@
+consulta yo ya tenia instalada una version de ECLIPSE
+tengo que modificar el directorio?
+
+SELENIUM WEB DRIVER
+
+Si pensamos en PROYECTOS de integracion continua NECESITAMOS  ESTE BIEN CONFIGURADO MAVEN y que lo registre la consola
+
+
+QUE DIGA RAN
