@@ -1,0 +1,107 @@
+ package testCase;
+
+import org.testng.Assert;
+import org.testng.Reporter;
+import org.testng.annotations.Test;
+
+import MetodosUtiles.Utiles;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class TestCaseWiki {
+
+	@Test(description = "Verificar y Validar la caja de texto de Wikipedia")
+	public void ValidarBusquedaWikipedia() throws Exception {
+	
+    Utiles.escribir("Nombre: LASCANO MARIA EMILIA  - TAREA CLASE 5");
+    Utiles.escribir("Abro Chrome");
+	System.setProperty("webdriver.chrome.driver", "C:/Drivers/chromedriver.exe");
+	
+	String url="http://wikipedia.org";
+	Utiles.escribir("Navega a url"+ url);
+	WebDriver driver = new ChromeDriver();
+	
+	driver.get("http://wikipedia.org");
+	
+	Utiles.escribir("ubicar el elemento web de la caja de texto busqued");
+	WebElement searchInput = driver.findElement(By.id("searchInput"));
+	
+	Utiles.escribir("Se visualiza o despliega la caja de texto");
+	Assert.assertTrue(searchInput.isDisplayed(),"No se pudo visualizar la caja de busqueda");
+	
+	String dato="Selenium";
+	Utiles.escribir("Ingresar la palabra "+ dato);
+	searchInput.sendKeys(dato);
+	
+	Utiles.escribir("presionar enter");
+	searchInput.submit();
+	
+	Utiles.escribir("En la pagina de resultado, busco el titulo");
+	WebElement tituloResultado = driver.findElement(By.id("firstHeading"));
+	System.out.println("Texto encontrado "+ tituloResultado.getText());
+	
+	Utiles.escribir("El titulo es visible");
+	Assert.assertTrue(tituloResultado.isDisplayed());
+	
+	Utiles.escribir("Verificar que el titulo sea Selenium");
+	Assert.assertTrue(tituloResultado.getText().toString().contains("Selenium1"), "No se visualizo el titulo");
+
+	Utiles.escribir("Cierro Chrome");
+	driver.close();
+	}
+	
+	
+	@Test(description = "Verificar y Validar la caja de texto de Wikipedia")
+	public void ValidarTituloHistoria() throws Exception {
+
+	Utiles.escribir("Nombre: LASCANO MARIA EMILIA - TAREA CLASE 5");
+	Utiles.escribir("Abro Chrome");
+	System.setProperty("webdriver.chrome.driver", "C:/Drivers/chromedriver.exe");
+	
+	String url="http://wikipedia.org";
+	Utiles.escribir("Navega a url"+ url);
+	WebDriver driver = new ChromeDriver();
+	
+	driver.get("http://wikipedia.org");
+	
+	Utiles.escribir("ubicar el elemento web de la caja de texto busqued");
+	WebElement searchInput = driver.findElement(By.id("searchInput"));
+	
+	Utiles.escribir("Se visualiza o despliega la caja de texto");
+	Assert.assertTrue(searchInput.isDisplayed(),"No se pudo visualizar la caja de busqueda");
+	
+	String dato="Selenium";
+	Utiles.escribir("Ingresar la palabra "+ dato);
+	searchInput.sendKeys(dato);
+	
+	Utiles.escribir("presionar enter");
+	searchInput.submit();
+	
+	Utiles.escribir("En la pagina de resultado, busco el titulo");
+	WebElement tituloResultado = driver.findElement(By.id("firstHeading"));
+	System.out.println("Texto encontrado "+ tituloResultado.getText());
+	
+	Utiles.escribir("El titulo es visible");
+	Assert.assertTrue(tituloResultado.isDisplayed());
+	
+	Utiles.escribir("Verificar que el titulo sea Selenium");
+	Assert.assertTrue(tituloResultado.getText().toString().contains("Selenium"), "No se visualizo el titulo");
+
+	Utiles.escribir("El título historia es visible");
+	WebElement historia= driver.findElement(By.xpath("//span[@id='Historia']"));
+	System.out.println("Texto encontrado "+ historia.getText());
+	
+	Utiles.escribir("El titulo Historia es visible");
+	Assert.assertTrue(historia.isDisplayed());
+	
+	Utiles.escribir("Verificar que Historia sea visible");
+	Assert.assertTrue(historia.getText().toString().contains("Historia"), "No se visualizo el titulo");
+
+	Utiles.escribir("Cierro Chrome");
+	driver.close();
+	}
+	
+}
