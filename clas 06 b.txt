@@ -1,0 +1,33 @@
+CAP1
+DEMOSTRACIONES
+
+Ley de Coulom
+Campo Eléctrico
+Fuerza Eléctrica
+
+Demostración
+Como sacar el CAMPO ELÉCTRICO DE UNA CARGA PUNTUAL.
+
+
+PRE CONDICION ACCEDER PAGINA WE
+
+POST CONDICION DESLOGEARSE
+
+Métodos hijos que hacen TEST CASES puntuales
+
+4 TESTCASES
+LOGUEAR
+-sin usuario existente
+-usuario existente (sin distinguir tipo de empleado)
+
+METODO HIJO
+El metodo invocado desde otro método.
+
+
+BEFORE Y AFTER METODO lo hacen todos los test
+
+-GROUPS: se pueden agrupar
+
+
+
+

@@ -1,0 +1,20 @@
+CREAR METODO PARA INVOCAR los DRIVERS que deseamos ejecutar
+
+
+METODOS UTILES -> Utiles.java
+
+public static void escribir(){
+
+}
+
+
+DATA DRIVEN TESTING
+
+
+hay que subir EMEILABLE REPORT
+
+ejecutar y adjuntar resultado
+
+
+INDEX.HTML 
+EMAILABLEREPORT.HTML
