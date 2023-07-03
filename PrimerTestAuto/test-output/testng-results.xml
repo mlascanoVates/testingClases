@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Nombre: LASCANO MARIA EMILIA ]]>
+    </line>
+    <line>
+      <![CDATA[Abro Chrome]]>
+    </line>
+    <line>
+      <![CDATA[Abro browser]]>
+    </line>
+    <line>
+      <![CDATA[Borro todas las cookies]]>
+    </line>
+    <line>
+      <![CDATA[ubicar el elemento web de la caja de texto busqued]]>
+    </line>
+    <line>
+      <![CDATA[Se visualiza o despliega la caja de texto]]>
+    </line>
+    <line>
+      <![CDATA[Ingresar la palabra: Selenium]]>
+    </line>
+    <line>
+      <![CDATA[presionar enter]]>
+    </line>
+    <line>
+      <![CDATA[En la pagina de resultado, busco el titulo]]>
+    </line>
+    <line>
+      <![CDATA[El titulo es visible]]>
+    </line>
+    <line>
+      <![CDATA[Verificar que el titulo sea: Selenium]]>
+    </line>
+    <line>
+      <![CDATA[Cierro Chrome]]>
+    </line>
+    <line>
+      <![CDATA[Nombre: LASCANO MARIA EMILIA ]]>
+    </line>
+    <line>
+      <![CDATA[Abro Chrome]]>
+    </line>
+    <line>
+      <![CDATA[Abro browser]]>
+    </line>
+    <line>
+      <![CDATA[Borro todas las cookies]]>
+    </line>
+    <line>
+      <![CDATA[ubicar el elemento web de la caja de texto busqued]]>
+    </line>
+    <line>
+      <![CDATA[Se visualiza o despliega la caja de texto]]>
+    </line>
+    <line>
+      <![CDATA[Ingresar la palabra: TDD]]>
+    </line>
+    <line>
+      <![CDATA[presionar enter]]>
+    </line>
+    <line>
+      <![CDATA[En la pagina de resultado, busco el titulo]]>
+    </line>
+    <line>
+      <![CDATA[El titulo es visible]]>
+    </line>
+    <line>
+      <![CDATA[Verificar que el titulo sea: Desarrollo guiado por pruebas]]>
+    </line>
+    <line>
+      <![CDATA[Cierro Chrome]]>
+    </line>
+    <line>
+      <![CDATA[Nombre: LASCANO MARIA EMILIA ]]>
+    </line>
+    <line>
+      <![CDATA[Abro Chrome]]>
+    </line>
+    <line>
+      <![CDATA[Abro browser]]>
+    </line>
+    <line>
+      <![CDATA[Borro todas las cookies]]>
+    </line>
+    <line>
+      <![CDATA[ubicar el elemento web de la caja de texto busqued]]>
+    </line>
+    <line>
+      <![CDATA[Se visualiza o despliega la caja de texto]]>
+    </line>
+    <line>
+      <![CDATA[Ingresar la palabra: DATA DRIVEN TESTING]]>
+    </line>
+    <line>
+      <![CDATA[presionar enter]]>
+    </line>
+    <line>
+      <![CDATA[En la pagina de resultado, busco el titulo]]>
+    </line>
+    <line>
+      <![CDATA[El titulo es visible]]>
+    </line>
+    <line>
+      <![CDATA[Verificar que el titulo sea: Data-driven testing]]>
+    </line>
+    <line>
+      <![CDATA[Cierro Chrome]]>
+    </line>
+    <line>
+      <![CDATA[Nombre: LASCANO MARIA EMILIA ]]>
+    </line>
+    <line>
+      <![CDATA[Abro Chrome]]>
+    </line>
+    <line>
+      <![CDATA[Abro browser]]>
+    </line>
+    <line>
+      <![CDATA[Borro todas las cookies]]>
+    </line>
+    <line>
+      <![CDATA[ubicar el elemento web de la caja de texto busqued]]>
+    </line>
+    <line>
+      <![CDATA[Se visualiza o despliega la caja de texto]]>
+    </line>
+    <line>
+      <![CDATA[Ingresar la palabra: Testeo]]>
+    </line>
+    <line>
+      <![CDATA[presionar enter]]>
+    </line>
+    <line>
+      <![CDATA[En la pagina de resultado, busco el titulo]]>
+    </line>
+    <line>
+      <![CDATA[El titulo es visible]]>
+    </line>
+    <line>
+      <![CDATA[Verificar que el titulo sea: Pruebas de software]]>
+    </line>
+    <line>
+      <![CDATA[Cierro Chrome]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-03T16:38:22 ART" name="Suite" finished-at="2023-07-03T16:39:04 ART" duration-ms="42594">
+    <groups>
+    </groups>
+    <test started-at="2023-07-03T16:38:22 ART" name="Test" finished-at="2023-07-03T16:39:04 ART" duration-ms="42594">
+      <class name="testCase.TestCaseWiki">
+        <test-method is-config="true" signature="precondition(org.testng.ITestContext)[pri:0, instance:testCase.TestCaseWiki@13fd2ccd]" started-at="2023-07-03T16:38:22 ART" name="precondition" finished-at="2023-07-03T16:38:27 ART" duration-ms="5672" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@20134094]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Nombre: LASCANO MARIA EMILIA ]]>
+            </line>
+            <line>
+              <![CDATA[Abro Chrome]]>
+            </line>
+            <line>
+              <![CDATA[Abro browser]]>
+            </line>
+            <line>
+              <![CDATA[Borro todas las cookies]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="ValidarBusquedaWikipedia(java.lang.String,java.lang.String)[pri:0, instance:testCase.TestCaseWiki@13fd2ccd]" started-at="2023-07-03T16:38:27 ART" name="ValidarBusquedaWikipedia" description="Verificar y Validar la caja de texto de Wikipedia" data-provider="datos" finished-at="2023-07-03T16:38:32 ART" duration-ms="4784" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Selenium]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ubicar el elemento web de la caja de texto busqued]]>
+            </line>
+            <line>
+              <![CDATA[Se visualiza o despliega la caja de texto]]>
+            </line>
+            <line>
+              <![CDATA[Ingresar la palabra: Selenium]]>
+            </line>
+            <line>
+              <![CDATA[presionar enter]]>
+            </line>
+            <line>
+              <![CDATA[En la pagina de resultado, busco el titulo]]>
+            </line>
+            <line>
+              <![CDATA[El titulo es visible]]>
+            </line>
+            <line>
+              <![CDATA[Verificar que el titulo sea: Selenium]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidarBusquedaWikipedia -->
+        <test-method is-config="true" signature="postcondition()[pri:0, instance:testCase.TestCaseWiki@13fd2ccd]" started-at="2023-07-03T16:38:32 ART" name="postcondition" finished-at="2023-07-03T16:38:32 ART" duration-ms="243" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Cierro Chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+        <test-method is-config="true" signature="precondition(org.testng.ITestContext)[pri:0, instance:testCase.TestCaseWiki@13fd2ccd]" started-at="2023-07-03T16:38:32 ART" name="precondition" finished-at="2023-07-03T16:38:37 ART" duration-ms="4821" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@20134094]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Nombre: LASCANO MARIA EMILIA ]]>
+            </line>
+            <line>
+              <![CDATA[Abro Chrome]]>
+            </line>
+            <line>
+              <![CDATA[Abro browser]]>
+            </line>
+            <line>
+              <![CDATA[Borro todas las cookies]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="ValidarBusquedaWikipedia(java.lang.String,java.lang.String)[pri:0, instance:testCase.TestCaseWiki@13fd2ccd]" started-at="2023-07-03T16:38:37 ART" name="ValidarBusquedaWikipedia" description="Verificar y Validar la caja de texto de Wikipedia" data-provider="datos" finished-at="2023-07-03T16:38:42 ART" duration-ms="5060" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TDD]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Desarrollo guiado por pruebas]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ubicar el elemento web de la caja de texto busqued]]>
+            </line>
+            <line>
+              <![CDATA[Se visualiza o despliega la caja de texto]]>
+            </line>
+            <line>
+              <![CDATA[Ingresar la palabra: TDD]]>
+            </line>
+            <line>
+              <![CDATA[presionar enter]]>
+            </line>
+            <line>
+              <![CDATA[En la pagina de resultado, busco el titulo]]>
+            </line>
+            <line>
+              <![CDATA[El titulo es visible]]>
+            </line>
+            <line>
+              <![CDATA[Verificar que el titulo sea: Desarrollo guiado por pruebas]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidarBusquedaWikipedia -->
+        <test-method is-config="true" signature="postcondition()[pri:0, instance:testCase.TestCaseWiki@13fd2ccd]" started-at="2023-07-03T16:38:42 ART" name="postcondition" finished-at="2023-07-03T16:38:43 ART" duration-ms="267" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Cierro Chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+        <test-method is-config="true" signature="precondition(org.testng.ITestContext)[pri:0, instance:testCase.TestCaseWiki@13fd2ccd]" started-at="2023-07-03T16:38:43 ART" name="precondition" finished-at="2023-07-03T16:38:48 ART" duration-ms="5597" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@20134094]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Nombre: LASCANO MARIA EMILIA ]]>
+            </line>
+            <line>
+              <![CDATA[Abro Chrome]]>
+            </line>
+            <line>
+              <![CDATA[Abro browser]]>
+            </line>
+            <line>
+              <![CDATA[Borro todas las cookies]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="ValidarBusquedaWikipedia(java.lang.String,java.lang.String)[pri:0, instance:testCase.TestCaseWiki@13fd2ccd]" started-at="2023-07-03T16:38:48 ART" name="ValidarBusquedaWikipedia" description="Verificar y Validar la caja de texto de Wikipedia" data-provider="datos" finished-at="2023-07-03T16:38:54 ART" duration-ms="5721" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DATA DRIVEN TESTING]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Data-driven testing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ubicar el elemento web de la caja de texto busqued]]>
+            </line>
+            <line>
+              <![CDATA[Se visualiza o despliega la caja de texto]]>
+            </line>
+            <line>
+              <![CDATA[Ingresar la palabra: DATA DRIVEN TESTING]]>
+            </line>
+            <line>
+              <![CDATA[presionar enter]]>
+            </line>
+            <line>
+              <![CDATA[En la pagina de resultado, busco el titulo]]>
+            </line>
+            <line>
+              <![CDATA[El titulo es visible]]>
+            </line>
+            <line>
+              <![CDATA[Verificar que el titulo sea: Data-driven testing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidarBusquedaWikipedia -->
+        <test-method is-config="true" signature="postcondition()[pri:0, instance:testCase.TestCaseWiki@13fd2ccd]" started-at="2023-07-03T16:38:54 ART" name="postcondition" finished-at="2023-07-03T16:38:54 ART" duration-ms="293" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Cierro Chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+        <test-method is-config="true" signature="precondition(org.testng.ITestContext)[pri:0, instance:testCase.TestCaseWiki@13fd2ccd]" started-at="2023-07-03T16:38:54 ART" name="precondition" finished-at="2023-07-03T16:38:59 ART" duration-ms="4808" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@20134094]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Nombre: LASCANO MARIA EMILIA ]]>
+            </line>
+            <line>
+              <![CDATA[Abro Chrome]]>
+            </line>
+            <line>
+              <![CDATA[Abro browser]]>
+            </line>
+            <line>
+              <![CDATA[Borro todas las cookies]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="ValidarBusquedaWikipedia(java.lang.String,java.lang.String)[pri:0, instance:testCase.TestCaseWiki@13fd2ccd]" started-at="2023-07-03T16:38:59 ART" name="ValidarBusquedaWikipedia" description="Verificar y Validar la caja de texto de Wikipedia" data-provider="datos" finished-at="2023-07-03T16:39:04 ART" duration-ms="5020" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Testeo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pruebas de software]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ubicar el elemento web de la caja de texto busqued]]>
+            </line>
+            <line>
+              <![CDATA[Se visualiza o despliega la caja de texto]]>
+            </line>
+            <line>
+              <![CDATA[Ingresar la palabra: Testeo]]>
+            </line>
+            <line>
+              <![CDATA[presionar enter]]>
+            </line>
+            <line>
+              <![CDATA[En la pagina de resultado, busco el titulo]]>
+            </line>
+            <line>
+              <![CDATA[El titulo es visible]]>
+            </line>
+            <line>
+              <![CDATA[Verificar que el titulo sea: Pruebas de software]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidarBusquedaWikipedia -->
+        <test-method is-config="true" signature="postcondition()[pri:0, instance:testCase.TestCaseWiki@13fd2ccd]" started-at="2023-07-03T16:39:04 ART" name="postcondition" finished-at="2023-07-03T16:39:04 ART" duration-ms="184" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Cierro Chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+      </class> <!-- testCase.TestCaseWiki -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
